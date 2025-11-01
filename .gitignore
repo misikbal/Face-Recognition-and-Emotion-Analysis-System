@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# DeepFace
+.deepface/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim Sistemi
+.DS_Store
+Thumbs.db
+
+# Analiz edilmiş görüntüler
+*_analyzed.*
+
+# Model dosyaları
+*.h5
+*.pb
+models/
+
